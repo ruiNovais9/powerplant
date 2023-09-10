@@ -1,0 +1,10 @@
+version: '3'
+name: PowerPlant-project
+services:
+  powerplant:
+    container_name: PowerPlant-api
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 8888:80
