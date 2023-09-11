@@ -6,7 +6,7 @@ You have 2 options to run this project, docker or with visual studio 2022.
 
 You need to have docker installed and running it.
 
-Clone a repository and open a CMD in the folder where you cloned the repository (you should be on same path of docker-compose.yml and DockerFile) and write:
+Clone a repository and open a CMD (Command Prompt) in the folder where you cloned the repository (you should be on same path of docker-compose.yml and DockerFile) and write:
 
 docker-compose up --build
 
