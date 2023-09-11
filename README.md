@@ -14,7 +14,7 @@ This will clone this repository to your local or you can just download zip on gr
 
 You need to have docker installed and running it.
 
-Clone a repository and open a CMD (Command Prompt) in the folder where you cloned the repository (you should be on same path of docker-compose.yml and DockerFile) and write:
+Open a CMD (Command Prompt) in the folder where you cloned the repository (you should be on same path of docker-compose.yml and DockerFile) and write:
 
 docker-compose up --build
 
@@ -24,7 +24,7 @@ After this you can open the browser and put: http://localhost:8888/swagger and u
 
 # Visual Studio 2022
 
-Clone a repository, go to the folder PowerPlantAPI and open the PowerPlantAPI.sln, rebuild solution and right click on project PowerPlantAPI and select
+Go to the folder PowerPlantAPI and open the PowerPlantAPI.sln, rebuild solution and right click on project PowerPlantAPI and select
 the option "Set as Startup project" and below of help menu you have a "play" icone click on a right small icon and pick http or IIS express.
 Then press the "play" with http description on front of the image and with this you have the project running.
 
