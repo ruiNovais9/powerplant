@@ -22,3 +22,15 @@ C:\Users\rui_n\source\repos\PowerPlantNew\PowerPlants\obj\Debug\net7.0\PowerPlan
 C:\Users\rui_n\source\repos\PowerPlantNew\PowerPlants\obj\Debug\net7.0\refint\PowerPlants.dll
 C:\Users\rui_n\source\repos\PowerPlantNew\PowerPlants\obj\Debug\net7.0\PowerPlants.pdb
 C:\Users\rui_n\source\repos\PowerPlantNew\PowerPlants\obj\Debug\net7.0\ref\PowerPlants.dll
+C:\Users\Rui Novais\powerplant\PowerPlants\bin\Debug\net7.0\PowerPlants.deps.json
+C:\Users\Rui Novais\powerplant\PowerPlants\bin\Debug\net7.0\PowerPlants.dll
+C:\Users\Rui Novais\powerplant\PowerPlants\bin\Debug\net7.0\PowerPlants.pdb
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.csproj.AssemblyReference.cache
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.AssemblyInfoInputs.cache
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.AssemblyInfo.cs
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.csproj.CoreCompileInputs.cache
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.dll
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\refint\PowerPlants.dll
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\PowerPlants.pdb
+C:\Users\Rui Novais\powerplant\PowerPlants\obj\Debug\net7.0\ref\PowerPlants.dll

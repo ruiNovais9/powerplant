@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rui_n\\source\\repos\\PowerPlantNew\\PowerPlants\\PowerPlants.csproj": {}
+    "C:\\Users\\Rui Novais\\powerplant\\PowerPlants\\PowerPlants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rui_n\\source\\repos\\PowerPlantNew\\PowerPlants\\PowerPlants.csproj": {
+    "C:\\Users\\Rui Novais\\powerplant\\PowerPlants\\PowerPlants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rui_n\\source\\repos\\PowerPlantNew\\PowerPlants\\PowerPlants.csproj",
+        "projectUniqueName": "C:\\Users\\Rui Novais\\powerplant\\PowerPlants\\PowerPlants.csproj",
         "projectName": "PowerPlants",
-        "projectPath": "C:\\Users\\rui_n\\source\\repos\\PowerPlantNew\\PowerPlants\\PowerPlants.csproj",
-        "packagesPath": "C:\\Users\\rui_n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rui_n\\source\\repos\\PowerPlantNew\\PowerPlants\\obj\\",
+        "projectPath": "C:\\Users\\Rui Novais\\powerplant\\PowerPlants\\PowerPlants.csproj",
+        "packagesPath": "C:\\Users\\Rui Novais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rui Novais\\powerplant\\PowerPlants\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rui_n\\NuGet.Config",
-          "C:\\Users\\rui_n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rui Novais\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +25,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
