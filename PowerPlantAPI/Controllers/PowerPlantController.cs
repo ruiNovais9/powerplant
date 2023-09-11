@@ -16,6 +16,13 @@ namespace Powerplant.Controllers
             _logger = logger;
         }
 
+        
+        /// <summary>
+        /// Receive the total of available power, the description of fuels and the information of a list of powerplants.
+        /// Process this data and get the power of each powerplant.
+        /// </summary>
+        /// <param name="powerPlantsRequest"></param>
+        /// <returns>The list of powerPlant with the power should deliver.</returns>
         [HttpPost("productionplan")]
         public ActionResult<List<PowerPlantsDataResponse>> ProductionPlan([FromBody] PowerPlantsDataRequest powerPlantsRequest)
         {
