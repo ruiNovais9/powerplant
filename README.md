@@ -36,7 +36,9 @@ To use swagger (http://localhost:8888/swagger) open the green menu /productionpl
 
 On postman create a new tab and pick a option (default is get) POST and write the URL: http://localhost:8888/productionplan , then on option body select raw, it will appear the option TEXT, change that value to JSON, then past the request you want below.
 
-Notes: I didn't use System.Linq or interfaces (like IComparable) because I didn't know if I could use them or not, I order the list by cost and efficiency the way I did because of this.
+# Note
+
+I didn't use System.Linq or interfaces (like IComparable) because I didn't know if I could use them or not, I order the list by cost and efficiency the way I did because of this.
 The solution to order the list could be OrderBy and ThenByDEcending, the other solution could be to implement IComparable.
 
 
