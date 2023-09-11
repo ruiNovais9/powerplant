@@ -2,6 +2,14 @@
 
 You have 2 options to run this project, docker or with visual studio 2022.
 
+# How to get this Repository to your local
+
+You can clone this repository openning a CMD (Command Prompt) and write git clone https://github.com/ruiNovais9/powerplant.git 
+
+Note: To use with this command you need have installed git.
+
+This will clone this repository to your local or you can just download zip on green Code button on repository page.
+
 # Docker
 
 You need to have docker installed and running it.
