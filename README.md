@@ -1,4 +1,4 @@
-# Hot it works
+# How it works
 
 You have 2 options to run this project, docker or with visual studio 2022.
 
