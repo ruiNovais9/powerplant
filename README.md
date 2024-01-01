@@ -38,7 +38,6 @@ On postman create a new tab and pick a option (default is get) POST and write th
 
 # Note
 
-I didn't use System.Linq or interfaces (like IComparable) because I didn't know if I could use them or not, I order the list by cost and efficiency the way I did because of this.
-The solution to order the list could be OrderBy and ThenByDEcending, the other solution could be to implement IComparable.
+Could be use the solution to order the list could be OrderBy and ThenByDEcending, the other solution could be to implement IComparable.
 
 
